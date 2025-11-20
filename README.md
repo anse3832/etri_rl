@@ -20,3 +20,4 @@ python spaceinvader.py
 ```
 아래와 같은 화면이 생성되면 성공
 (총 10번의 episode 실행)
+<img width="854" height="670" alt="스크린샷 2025-11-21 081734" src="https://github.com/user-attachments/assets/09e4bf7e-6a64-4025-af4b-99709fcf4136" />

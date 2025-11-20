@@ -18,7 +18,7 @@ conda activate <가상환경_이름>
 
 ## 3. 모델 zip 파일 다운로드
 아래의 링크에서 다운받은 "best_model_QRDQN.zip" 파일을<br> 
-"1. 코드 다운로드" 과정에서 생성된 "etri_rl" 폴더 안으로 이동
+"1. 코드 다운로드" 과정에서 생성된 "etri_rl" 폴더 안으로 이동<br>
 https://drive.google.com/file/d/138_4vDAVEY5XTMqmcmR56WlSflOq6Zpv/view?usp=drive_link
 
 ## 4. 코드 실행

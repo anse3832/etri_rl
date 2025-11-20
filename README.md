@@ -8,7 +8,7 @@ cd etri_rl
 ```
 
 ## 2. conda 가상환경 생성 및 접속
-conda 가상환경 생성시, pytorch 등 다양한 패키지 설치로 인해 오랜 시간이 걸림
+conda 가상환경 생성시, pytorch 등 다양한 패키지 설치로 인해 시간이 오래 걸림
 ```
 conda env create -n <가상환경_이름> -f environment.yml
 conda activate <가상환경_이름>

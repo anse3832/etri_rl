@@ -193,7 +193,8 @@ if __name__ == "__main__":
     # run(ENV_ID, model_type="DQN", model_path=model_path, n_episodes=10)
 
     # test code (best QRDQN model)
-    model_path = "./models/ALE_SpaceInvaders-v5/best_model/best_model_QRDQN.zip"
+    model_path = "./best_model_QRDQN.zip"
     print("=== Running best QRDQN model ===")
     run(ENV_ID, model_type="QRDQN", model_path=model_path)
+
 

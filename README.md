@@ -33,6 +33,7 @@ https://drive.google.com/file/d/138_4vDAVEY5XTMqmcmR56WlSflOq6Zpv/view?usp=drive
 python spaceinvader.py
 ```
 spaceinvader.py 안의 경로를 반드시 맞춰줄 것<br>
+위의 순서대로 진행을 했다면 이미 경로는 맞춰져 있습니다<br>
 <img width="500" height="715" alt="그림7" src="https://github.com/user-attachments/assets/9290ac69-80eb-438c-b7f9-1866afc34e90" />
 
 ## 5. 실행 결과

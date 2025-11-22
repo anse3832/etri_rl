@@ -3,7 +3,7 @@ Graduate course (Advanced Reinforcement Learning) term project
 
 아래의 메뉴얼대로 순서대로 진행하시면 됩니다.
 
-## 0. Preresuites
+## 0. Prerequisites
 conda 가상환경에서 실행해야 하기 때문에 anaconda3 설치 필수<br>
 git으로 코드 다운을 해야 하므로 git이 동작해야 함
 
